@@ -42,4 +42,6 @@ Disadvantages:
      few UI Web Views, access to the content of the Web.For example, news class APP in Store, video APP generally adopts Native        
      framework and Web content.Hybrid App strives to create a Native App-like experience, but is still limited by technology, speed, 
      and many other factors. It's not perfect yet.
-     
+  
+# Native app、Web App、Hybrid App Technical characteristics
+![比较图](http://image.woshipm.com/wp-files/2014/12/b0cf05c189c1814380709ec94ebd5a7b.png)
